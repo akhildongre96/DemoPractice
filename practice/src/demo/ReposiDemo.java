@@ -1,6 +1,6 @@
 package demo;
 
-public class ReposiDemo {
+public class ReposiDemo2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -14,8 +14,8 @@ public class ReposiDemo {
 		int c=name.length();
 		System.out.println(c);
 		System.out.println(cout);
-		System.out.println("akhil");
-		System.out.println("dongre");
+		
+		 
 		
 
 	}
